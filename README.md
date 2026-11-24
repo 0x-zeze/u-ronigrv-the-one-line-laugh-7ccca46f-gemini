@@ -1,6 +1,6 @@
 [![make.fun · u-ronigrv-the-one-line-laugh-7ccca46f](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
-[![rank](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/0x-zeze/u-ronigrv-the-one-line-laugh-7ccca46f-gemini/rank.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f)
-[![reward](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/0x-zeze/u-ronigrv-the-one-line-laugh-7ccca46f-gemini/reward.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f)
+[![rank](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/0x-zeze/u-ronigrv-the-one-line-laugh-7ccca46f-gemini/rank.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
+[![reward](https://make.fun/badge/u-ronigrv-the-one-line-laugh-7ccca46f/0x-zeze/u-ronigrv-the-one-line-laugh-7ccca46f-gemini/reward.svg)](https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-the-one-line-laugh-7ccca46f)
 
 # The One-Line Laugh (Gemini rebuild)
 
